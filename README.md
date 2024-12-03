@@ -1,3 +1,7 @@
+**NAME : SENTHIL ARUNACHALAM P**
+
+
+**REG NO : 24900904**
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -34,6 +38,8 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![Screenshot 2024-12-03 111250](https://github.com/user-attachments/assets/9e8daec7-c3d5-4784-abc6-d20025d8ab9c)
+
 
 **Procedure**
 
@@ -49,13 +55,21 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+![Screenshot 2024-12-03 110420](https://github.com/user-attachments/assets/d274ef00-1044-4c9b-85aa-f40506b634fa)
+
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+![Screenshot 2024-12-03 110322](https://github.com/user-attachments/assets/e70c0da5-d23d-4ce1-830d-a09f7b3944f0)
+
 
 **Output/TIMING Waveform**
+![Screenshot 2024-12-03 111428](https://github.com/user-attachments/assets/53c1639c-8e6a-4273-8278-f53d3d1c17ef)
+
 
 **Result:**
+  Thus, we designed a half adder and half subtractor circuit and verified its truth table in Quartus using Verilog programming.
+
